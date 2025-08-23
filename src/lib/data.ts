@@ -25,6 +25,6 @@ export const initialPermits: Permit[] = [
     createPermit('PERMIT-004', 'high', 'Working at height on Smelter roof, 50ft elevation.', 'Full body harness, helmet, non-slip boots', 'Pending'),
     createPermit('PERMIT-005', 'medium', 'Confined space entry into Tank 7 for cleaning.', 'Respirator, harness, gas detector, helmet', 'Pending'),
     createPermit('PERMIT-006', 'low', 'Cold work - replacement of water pump in cooling tower.', 'Gloves, safety shoes', 'Approved'),
-    createPermit('PERMIT-007', 'high', 'Hot tapping on active steam line. Extreme heat and pressure.', 'Rejected'),
+    createPermit('PERMIT-007', 'high', 'Hot tapping on active steam line. Extreme heat and pressure.', 'Heat-resistant suit, face shield, insulated gloves, safety boots', 'Rejected'),
     createPermit('PERMIT-008', 'medium', 'Scaffolding erection for boiler maintenance.', 'Harness, helmet, gloves, safety boots', 'Approved'),
 ];
